@@ -1,0 +1,122 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #3b5998; }
+
+.main_footer,
+.s_about li {
+  color: #888; }
+
+.color_element {
+  color: #3b5998; }
+
+.color_bg {
+  background-color: #3b5998; }
+
+.color_border {
+  border-color: #3b5998; }
+
+.main_color_bg {
+  background-color: #222; }
+
+.toggle_mnu {
+  background-color: #222; }
+
+.bg_light {
+  background-color: #F3F3F3; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #fff; }
+  .bg_dark a {
+    color: #fff; }
+
+.top_mnu a:hover {
+  color: #3b5998;
+  background-color: rgba(255, 255, 255, 0.1);
+  background-size: 100%; }
+.top_mnu a {
+  letter-spacing: 2px; }
+
+.top_text p {
+  color: #F3F3F3;
+  letter-spacing: 5px; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+.personal_header {
+  letter-spacing: 2px; }
+
+.s_about p {
+  color: #3b5998; }
+
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 2px;
+  font-size: 15px; }
+
+.resume_icon {
+  font-size: 40px;
+  margin-bottom: 35px; }
+
+.resume_item .year {
+  background-color: #3b5998; }
+.resume_item p {
+  color: #888; }
+
+.resume_description {
+  letter-spacing: 1px;
+  color: #888; }
+  .resume_description strong {
+    color: #222;
+    font-weight: 600; }
+
+.s_portfolio li {
+  color: #888;
+  letter-spacing: 2px; }
+  .s_portfolio li.active {
+    color: #fff;
+    border-bottom: 1px solid #3b5998; }
+
+.portfolio_item .port_item_cont a {
+  border-color: #3b5998;
+  color: #3b5998; }
+.portfolio_item .port_item_cont p {
+  color: #888; }
+
+.main_footer a {
+  color: #3b5998; }
+
+.contacts_icon {
+  color: #3b5998; }
+
+.text-danger {
+  color: #3b5998; }
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid #3b5998;
+  letter-spacing: 2px; }
+form button {
+  background-color: #3b5998;
+  letter-spacing: 2px; }
+form input,
+form textarea {
+  letter-spacing: 2px; }
+
+.form-group {
+  color: #888;
+  letter-spacing: 2px; }
+
+/*# sourceMappingURL=blue.css.map */
